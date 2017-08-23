@@ -3,9 +3,7 @@ This is the partner program to the DrillMate drill chart editor. You can use thi
 
 Demo Drill Code: 37JLvbvT
 
-[Beta6]
-+ Locked display orientation to landscape on Android.
-+ Scaled UI to fit more Android displays.
-+ Fixed Demo header in HTML.
-+ Fixed some directions in the demo drill.
-+ Fixed new tab not opening in HTML w/ Safari for iOS.
+[Beta7]
++ Fixed display scaling on Safari for iOS.
++ Improved message system on all platforms.
++ Better performance and bug fixes for Android.
