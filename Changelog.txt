@@ -1,3 +1,8 @@
+[Beta7]
++ Fixed display scaling on Safari for iOS.
++ Improved message system on all platforms.
++ Better performance and bug fixes for Android.
+
 [Beta6]
 + Locked display orientation to landscape on Android.
 + Scaled UI to fit more Android displays.
