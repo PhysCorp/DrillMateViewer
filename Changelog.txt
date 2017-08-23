@@ -1,3 +1,11 @@
+[Beta6]
++ Locked display orientation to landscape on Android.
++ Scaled UI to fit more Android displays.
++ Fixed Demo header in HTML.
++ Fixed some directions in the demo drill.
++ Fixed new tab not opening in HTML w/ Safari for iOS.
+
+
 [Beta5]
 + Android App is now on the Play Store!
-+ Changes are being logged.
++ Updates are now being logged
