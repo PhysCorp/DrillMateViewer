@@ -1,0 +1,3 @@
+[Beta5]
++ Android App is now on the Play Store!
++ Changes are being logged.
