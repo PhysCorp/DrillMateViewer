@@ -1,7 +1,14 @@
+[Beta8]
++ Added support for Google Analytics.
++ Added a metronome into the toolbar.
++ New offline message on HTML target.
++ Native recommendation on Android+HTML target.
+
 [Beta7]
 + Fixed display scaling on Safari for iOS.
 + Improved message system on all platforms.
 + Better performance and bug fixes for Android.
+
 
 [Beta6]
 + Locked display orientation to landscape on Android.
