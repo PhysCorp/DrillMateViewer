@@ -3,7 +3,10 @@ This is the partner program to the DrillMate drill chart editor. You can use thi
 
 Demo Drill Code: 37JLvbvT
 
-[Beta7]
-+ Fixed display scaling on Safari for iOS.
-+ Improved message system on all platforms.
-+ Better performance and bug fixes for Android.
+Download: http://www.physcorp.com/dmviewer
+
+[Beta8]
++ Added support for Google Analytics.
++ Added a metronome into the toolbar.
++ New offline message on HTML target.
++ Native recommendation on Android+HTML target.
